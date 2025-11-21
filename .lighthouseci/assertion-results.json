@@ -2,17 +2,17 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.62,
+    "actual": 0.63,
     "values": [
       0.62,
       0.62,
-      0.62
+      0.63
     ],
     "operator": ">=",
     "passed": false,
     "auditProperty": "performance",
     "auditId": "categories",
-    "level": "error",
+    "level": "warn",
     "url": "http://localhost:5173/"
   },
   {

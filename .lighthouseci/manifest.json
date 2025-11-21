@@ -1,0 +1,38 @@
+[
+  {
+    "url": "http://localhost:5173/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/Users/eden/workspace/CoursA3/devOps/github-actions-labb/.lighthouseci/localhost--2025_11_21_13_14_24.report.html",
+    "jsonPath": "/Users/eden/workspace/CoursA3/devOps/github-actions-labb/.lighthouseci/localhost--2025_11_21_13_14_24.report.json",
+    "summary": {
+      "performance": 0.62,
+      "accessibility": 0.92,
+      "best-practices": 1,
+      "seo": 0.83
+    }
+  },
+  {
+    "url": "http://localhost:5173/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/Users/eden/workspace/CoursA3/devOps/github-actions-labb/.lighthouseci/localhost--2025_11_21_13_14_35.report.html",
+    "jsonPath": "/Users/eden/workspace/CoursA3/devOps/github-actions-labb/.lighthouseci/localhost--2025_11_21_13_14_35.report.json",
+    "summary": {
+      "performance": 0.63,
+      "accessibility": 0.92,
+      "best-practices": 1,
+      "seo": 0.83
+    }
+  },
+  {
+    "url": "http://localhost:5173/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/Users/eden/workspace/CoursA3/devOps/github-actions-labb/.lighthouseci/localhost--2025_11_21_13_14_13.report.html",
+    "jsonPath": "/Users/eden/workspace/CoursA3/devOps/github-actions-labb/.lighthouseci/localhost--2025_11_21_13_14_13.report.json",
+    "summary": {
+      "performance": 0.62,
+      "accessibility": 0.92,
+      "best-practices": 1,
+      "seo": 0.83
+    }
+  }
+]
