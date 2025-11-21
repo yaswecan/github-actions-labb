@@ -1,4 +1,4 @@
 
 export default function Button() {
-    return <button>Cliquez Ici</button>
+  return <button>Cliquez Ici</button>
 }

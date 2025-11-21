@@ -1,7 +1,9 @@
 {
   "ci": {
     "collect": {
-      "staticDistDir": "dist"
+      "startServerCommand": "npm run dev",
+      "url": ["http://localhost:5173/"],
+      "numberOfRuns": 3
     },
     "assert": {
       "assertions": {
